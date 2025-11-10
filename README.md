@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I’m currently working on: building AI-powered applications and experimenting with multi-agent systems<br>🤝 I’m looking to collaborate on: projects related to Generative AI, IoT, and data-driven applications<br>🧩 I’m looking for help with: scaling AI models for production and exploring advanced MLOps practices<br>🌱 I’m currently learning: cloud deployment of AI solutions (AWS/GCP) and fine-tuning LLMs<br>💬 Ask me about: Python, machine learning workflows, and fitness lifestyle balance<br>⚡ Fun fact: I love solving technical challenges, and at the same time I enjoy hitting the gym almost every day
+⚒️ I’m currently working on: building AI-powered applications and experimenting with multi-agent systems<br>🤝 I’m looking to collaborate on: projects related to Generative AI, IoT, and data-driven applications<br>🧩 I’m looking for help with: scaling AI models for production and exploring advanced MLOps practices<br>🌱 I’m currently learning: fine-tuning LLMs<br>💬 Ask me about: Python, machine learning workflows, and fitness lifestyle balance<br>⚡ Fun fact: I love solving technical challenges, and at the same time I enjoy hitting the gym almost every day
 
 
 # 💻 Tech Stack:
